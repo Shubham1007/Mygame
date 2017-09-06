@@ -1,0 +1,37 @@
+
+#myb{width:60px;height:40px;font-size:1em;}
+
+#myb1{width:60px;height:40px;font-size:1em;}
+
+h2.player1{position:absolute;top:43%;left:15%;}
+
+h2{color:black;}
+
+h2.player2{position:absolute;top:43%;right:15%;}
+
+h3{font-family:aerial;font-size:2em;color:black;}
+
+.hd{position:absolute;bottom:5%;left:50%;}
+
+button
+{
+width:90px;
+height:90px;
+background-color:off white;
+font-size:4em;
+font-weight:bolder;
+}
+.turn
+{
+position:absolute;bottom:0px;left:40%;
+}
+
+h1 {font-size:30px;font-family:algerian,Calibiri,arial;text-align:center;}
+
+div{width:300px;height:300px;border:5px solid grey;}
+
+div.pos{position:absolute;top:30%;left:35%;}
+
+.p{position:absolute;left:55%;top:20%;}
+
+.p1{position:absolute;left:43%;top:20%;}
